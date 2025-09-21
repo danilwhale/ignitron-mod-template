@@ -1,0 +1,11 @@
+<Project>
+    <!-- IMPORTANT: uncomment and change these if you're going to build or work on this !! -->
+    <PropertyGroup>
+<!--         <GameDirectory>[GAME_DIR]</GameDirectory> -->
+<!--         <UnpackedGameDirectory>[UNPACKED_GAME_DIR]</UnpackedGameDirectory> -->
+    </PropertyGroup>
+    <PropertyGroup>
+        <GameDirectory>D:\Desktop\aA\</GameDirectory>
+        <UnpackedGameDirectory>D:\Desktop\aA\unpacked\</UnpackedGameDirectory>
+    </PropertyGroup>
+</Project>
