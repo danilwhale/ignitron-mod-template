@@ -4,6 +4,8 @@
         <TargetFramework>net9.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <!-- uncomment the line below if you're going to install any NuGet dependency, otherwise it won't copy its assemblies -->
+<!--        <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>-->
     </PropertyGroup>
 
     <PropertyGroup>
