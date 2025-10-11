@@ -7,7 +7,7 @@ use this template to get started with developing your mod for [ignitron](https:/
 1. create new repo from this template with `Use this template`
 2. clone the new repo on your pc
 3. [install ignitron](https://github.com/danilwhale/ignitron#installing)
-4. [configure the workspace](https://github.com/danilwhale/ignitron#workspace_configuration)
+4. [configure the workspace](https://github.com/danilwhale/ignitron#workspace-configuration)
 5. make some changes to make it yours:
     1. rename the project and solution files to match your mod name
     2. update metadata file:
