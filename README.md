@@ -11,9 +11,8 @@ use this template to get started with developing your mod for [ignitron](https:/
 5. make some changes to make it yours:
     1. rename the project and solution files to match your mod name
     2. update metadata file:
-        1. modify `AssemblyFile` property to `<YOUR_MOD_NAME>.dll`
-        2. remove `shitfuck` dependency, if you want to. you may keep it!
-        3. edit remaining properties to match your mod
+        1. modify `assembly_relative_path` property to `<PROJECT_NAME>.dll`
+        2. edit remaining properties to match your mod
     3. replace `LICENSE` with license you would like to use, such as MIT
 6. now you're ready to work on your mod
 
