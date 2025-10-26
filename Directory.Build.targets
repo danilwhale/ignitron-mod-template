@@ -1,6 +1,5 @@
 <Project>
     <PropertyGroup>
         <GameDirectory>$(ALLUMERIA_GAME_DIR)</GameDirectory>
-        <UnpackedGameDirectory>$(ALLUMERIA_UNPACKED_DIR)</UnpackedGameDirectory>
     </PropertyGroup>
 </Project>

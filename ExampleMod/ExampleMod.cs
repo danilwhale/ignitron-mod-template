@@ -1,12 +1,12 @@
 using Allumeria;
-using Ignitron.Loader.API;
+using Ignitron.Loader;
 
 namespace ExampleMod;
 
-public sealed class ExampleMod : Mod
+public sealed class ExampleMod : IModEntrypoint
 {
-    public override void Initialize()
+    public void Main(ModBox box)
     {
-        Logger.Init("Hello, World!");
+        Logger.Info("Hello, World!");
     }
 }
